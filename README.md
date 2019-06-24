@@ -6,4 +6,4 @@ Busca de gifs
 
 --------------------
 
-![](https://github.com/jacksonn455/buscador_gifs/blob/master/Sem título.png)
+![](https://github.com/jacksonn455/buscador_gifs/blob/master/Sem%20t%C3%ADtulo.png)
